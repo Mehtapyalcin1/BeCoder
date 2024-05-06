@@ -3,7 +3,7 @@
 This project, named BeCoder, is a website designed to help individuals become proficient React developers. It offers a range of features and information to guide users through their learning journey. Here's a breakdown of the technologies used in this project:
 
 # GIF :
-![BeCoder](https://github.com/SakirParlakbileker/BeCoder/assets/147662891/915455a3-1614-4735-95e5-3d69a7cfe2f4)
+![EkranKayd2024-05-0621 02 04-ezgif com-video-to-gif-converter](https://github.com/Mehtapyalcin1/BeCoder/assets/148896925/1cefdf24-c65b-47c1-a2c6-27a9a117d565)
 
 
 # HTML5 & CSS3: 
