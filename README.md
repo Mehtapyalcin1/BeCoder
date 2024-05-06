@@ -26,4 +26,3 @@ Although not explicitly mentioned in the code, Bootstrap's JavaScript components
 
 This project aims to provide a comprehensive learning experience for individuals interested in mastering React development, offering various learning formats and answering frequently asked questions. 
 Feel free to explore the codebase and contribute to its development on GitHub!
-# BeCoder
